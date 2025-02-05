@@ -1,0 +1,5 @@
+print("╔═════════════════════════════════════════╗")
+print("║\n\nGiriş Yap\n                          ║")
+print("║\tNickname\t:\n\tPassword\t:\n\tLevel:999║")
+print("╚═════════════════════════════════════════╝")
+input()
