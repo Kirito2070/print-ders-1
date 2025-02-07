@@ -1,2 +1,2 @@
-# print-ders-1
-ders 1
+# print-ders-2
+ders 2
